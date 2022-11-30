@@ -1,0 +1,7 @@
+#principal{
+   width: 500px;
+   height: 900px;
+   position: relative;
+   display: none;
+   border: 1px solid #000;
+}
